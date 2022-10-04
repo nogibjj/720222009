@@ -5,3 +5,4 @@ plt.scatter(data['Mortality rate, infant (per 1,000 live births)'], data["GDP pe
 plt.show()
 
 
+#chwiugcv
